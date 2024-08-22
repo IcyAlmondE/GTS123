@@ -1,0 +1,7 @@
+print("Group Name: Print Lab")
+print("------------------------")
+print("1: 6722781059 Natthapon Chantaracha")
+print("2: 6722781216 Wikrom Supamethangkoon")
+print("3: 6722781083 Kamiita Junpinith")
+print("4: 6722781125 Theetat Thongkwan")
+print("5: 6722781190 Ingkawat Kialbulwat")
