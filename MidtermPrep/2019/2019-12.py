@@ -9,7 +9,6 @@ if c1.isalpha() and c2.isalpha():
         start = c1
         end = c2
     s = 'abcdefghijklmnopqrstuvwxyz'
-    for i in range(s.index(start), s.index(end)+1):
-        print(s[i], end='')
+    print(s[s.index(start):s.index(end)+1])
 else:
     print("You need to input two characters.")
